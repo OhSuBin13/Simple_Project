@@ -6,3 +6,6 @@
 
 **RSA Algorithm**
 Python으로 RSA 알고리즘의 기초 원리를 구현해봤습니다.
+
+**lexer, parser, resolver, codegen**
+컴파일러의 기본 개념인 lexer, parser, code generator을 구현해봤습니다.
