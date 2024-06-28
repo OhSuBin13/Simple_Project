@@ -68,3 +68,32 @@ Spring을 활용해 멤버 등록, 조회 기능을 구현해봤습니다.
 ● AOP
 
 위와 관련된 기초 공부
+
+**게시판 기능 구현**
+
+## Getting Started
+**구현 목록**
+
+게시글 작성폼 생성, 글 작성 처리, 게시글 리스트, 게시글 상세 페이지, 게시글 삭제, 
+게시글 수정, 메시지 띄우기, 파일 업로드, 페이징 처리, 검색 기능 
+
+### Prerequisites
+
+웹 제작에 사용한 도구
+
+```
+IDE  DataBase JavaScript
+```
+
+### Installing
+
+
+```
+MariaDB  IntelliJ  MySQL Workbench
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
