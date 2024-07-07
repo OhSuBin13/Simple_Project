@@ -97,3 +97,43 @@ MariaDB  IntelliJ  MySQL Workbench
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
+
+**게시판 기능 구현**
+
+## Getting Started
+**구현 목록**
+
+회원 가입, 회원 조회, 상품 등록, 상품 조회, 주문 등록, 주문 조회, 분 및 취소
+
+### Prerequisites
+
+웹 제작에 사용한 도구
+
+```
+IDE  DataBase JavaScript
+```
+
+### Installing
+
+
+```
+H2 DB  IntelliJ  MySQL Workbench
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## 구현 화면
+
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/fc5a266f-8cd7-43aa-b2ac-a0938787daa9)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/bbe356a4-8996-4b39-8486-71373b687327)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/298241a5-0e33-48be-bd4c-785ed1bbfaa9)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/edab8afc-59a1-4186-9045-11c2a9b7225e)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/8ad49894-d3ac-4b21-aa5f-7e8781fb1d62)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/424f2cc7-2cd6-44a2-b351-8651377dd594)
+![image](https://github.com/OhSuBin13/Simple_Project/assets/149787142/3d53999e-5789-477f-9c3f-3450c79bf82b)
+
+
+
